@@ -16,7 +16,7 @@ Come along and learn how to make the most of Flutter to create amazing apps. We 
 
 As always, the event is open for all, and feel free to ask your questions and learn as much as you possibly can :)
 
-## 🎙️ Brief About The Event
+## 🎙️ Briefing From The Event
 
 - We had talked about some useful but underrated widgets in Flutter.
   - The code is available in `/lib` folder.
@@ -38,7 +38,8 @@ The widgets we covered are:
 - Expanded
 - WillPopScope
 
-You can find more and code samples on [/lib/widgets](./lib/widgets/) folder.
+Jump over to [/lib/widgets](./lib/widgets/) folder to find the code samples and detailed explanation.
+
 <hr>
 
 ## 🎉 Shout Out 
