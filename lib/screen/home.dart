@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ftt/widgets/hero.dart';
+import 'package:ftt/widgets/expansion_tile.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -15,7 +15,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: const Text('Flutter Kozhikode'),
       ),
-      body: const HeroPageOne(),
+      body: const ExpansionTileExample(),
     );
   }
 }
